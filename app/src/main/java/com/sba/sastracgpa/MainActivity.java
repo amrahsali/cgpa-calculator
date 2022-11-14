@@ -316,6 +316,7 @@ public class MainActivity extends AppCompatActivity {
                 De += D;
                // cgpa.setText("CGPA : " + String.format("%.4f", Nu / De));
                 calculate_cgpa.setText("CGPA : " + String.format("%.4f", Nu / De));
+
             } else
                 calculate_cgpa.setText("CGPA : " + String.format("%.4f", sg));
         }
