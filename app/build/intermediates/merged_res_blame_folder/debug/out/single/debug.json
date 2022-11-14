@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_alert_dialog_theme_selection.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/alert_dialog_theme_selection.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_calculation_dialog.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/calculation_dialog.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_newsfragment.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/newsfragment.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sba.sastracgpa.app-merged_res-16:/layout_calculation_dialog.xml.flat",
+        "source": "com.sba.sastracgpa.app-main-18:/layout/calculation_dialog.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_activity_webpage.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/activity_webpage.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_activity_target.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/activity_target.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_newsrows.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/newsrows.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/menu_menu.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/drawable_button.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/drawable/button.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/drawable_ic_graph.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/drawable/ic_graph.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_activity_cgpa.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/activity_cgpa.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_activity_main.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-pngs-11:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_activity_target_cgpa.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/activity_target_cgpa.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_activity_graph.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/activity_graph.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-merged_res-16:/layout_activity_news_and_events.xml.flat",
+        "source": "/Users/amrah/.gradle/daemon/7.5.1/com.sba.sastracgpa.app-main-18:/layout/activity_news_and_events.xml"
+    }
+]

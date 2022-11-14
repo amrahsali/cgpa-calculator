@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sba.sastracgpa.app-mergeDebugResources-14:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/amrah/.gradle/caches/transforms-3/b9b499ec47baa7bd45911e5bfcd6e272/transformed/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
